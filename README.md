@@ -9,8 +9,11 @@
 ## Proses Pemasukan Data Wajah
 ![image](https://user-images.githubusercontent.com/71377466/210589479-e8b4b85e-eebb-4f00-8f1a-d04dd11f6877.png)
 
-
-
-
+## Implementasi
+`Face Detection` 
+`Face Smile Eye Detection`
+`Create Dataset`
+`Training Faces`
+`Face Recognition`
 
 
