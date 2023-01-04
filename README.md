@@ -20,7 +20,7 @@
 1. `Face Detection` 
 2. `Face Smile Eye Detection`
 3. `Create Dataset`
-4. `Training Faces`
+4. `Training Data/Faces`
 5. `Face Recognition`
 
 
