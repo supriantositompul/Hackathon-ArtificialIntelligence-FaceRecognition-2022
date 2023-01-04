@@ -1,13 +1,13 @@
 # [Proyek] - CERTAN-2022
 
 ## Nama Anggota Kelompok
-```bash
-Juan Evander Klose Sitompul [12S20005]
-```
-```bash 
-Suprianto Dharma Sitompul [12S20010]
-```
-```bash
-Sandro Sinaga [12S20024]
-```
+<br>
+ ```
+ 🧞‍♂️ Team 14
+ 
+ 1. 12S20017 - Lile Manalu
+ 2. 12S20034 - Daniel Limbong
+ 3. 12S20048 - Jevania
+ 
+ ```
 
