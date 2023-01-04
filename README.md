@@ -12,7 +12,7 @@
 ### 🔗 Dataset Link: https://drive.google.com/drive/folders/1jPqeWLospvyIeNHyw148sTzXfsPwgDkr?usp=share_link
 <br> 
 
-## Training Data
+## Training Data/Faces
 ![image](https://user-images.githubusercontent.com/71377466/210591571-72634ac9-6b2d-47e7-9e2a-16e7c78531f0.png)
 <br>
 
@@ -20,7 +20,7 @@
 1. `Face Detection` 
 2. `Face Smile Eye Detection`
 3. `Create Dataset`
-4. `Training Faces
+4. `Training Faces`
 5. `Face Recognition`
 
 
