@@ -3,11 +3,8 @@
 ## Nama Anggota Kelompok
 <br>
  ```
- 🧞‍♂️ Team 14
- 
- 1. 12S20017 - Lile Manalu
- 2. 12S20034 - Daniel Limbong
- 3. 12S20048 - Jevania
- 
- ```
+ 1. 12S20005 - Juan Evander Klose Sitompul
+ 2. 12S20010 - Suprianto Dharma Sitompul
+ 3. 12S20024 - Sandro Sinaga
+  ```
 
