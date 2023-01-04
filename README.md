@@ -24,3 +24,7 @@
 5. `Face Recognition`
 
 
+## Modifikasi Source Code
+1. Menambahkan fungsi face recognition
+2. Menambahkan fungsi add Id peserta di face_dataset
+3. Memodifikasi face detection sehingga dapat mendeteksi mata sekaligus mulut
