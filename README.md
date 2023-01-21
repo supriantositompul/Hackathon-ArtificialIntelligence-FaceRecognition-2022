@@ -1,4 +1,4 @@
-# [Proyek] - CERTAN-2022
+# [Proyek] - CERTAN-2022 | Face Recognition 
 
 ## Nama Anggota Kelompok
  🧞‍♂️ Team DNS
