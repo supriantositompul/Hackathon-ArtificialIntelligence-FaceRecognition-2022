@@ -23,5 +23,4 @@
 3. Memodifikasi face detection sehingga dapat mendeteksi mata sekaligus mulut
 
 <br>
- `🧞‍♂️ Develop By.
-Suprianto Dharma Sitompul`
+ `🧞‍♂️ Develop By.Suprianto Dharma Sitompul`
