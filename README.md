@@ -1,4 +1,4 @@
-# [Proyek] - CERTAN-2022 | Face Recognition 
+# [2nd Runner Up Hackathon Code for the Nation 2022] - Kompetisi Hackathon | Face Recognition 
  
 ## `Proses Pemasukan Data Wajah` 
 ![image](https://user-images.githubusercontent.com/71377466/210589479-e8b4b85e-eebb-4f00-8f1a-d04dd11f6877.png)
