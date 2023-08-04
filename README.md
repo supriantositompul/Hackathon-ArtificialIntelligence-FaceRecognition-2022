@@ -23,5 +23,4 @@
 2. Menambahkan fungsi add Id peserta di face_dataset
 3. Memodifikasi face detection sehingga dapat mendeteksi mata sekaligus mulut
 
-<br>
- 🧞‍♂️ Develop By.Suprianto Dharma Sitompul
+
